@@ -1,2 +1,3 @@
-# Smallgreen.GitHub.io
-resume/blog
+# SmallgreenBlog
+blog
+used django
